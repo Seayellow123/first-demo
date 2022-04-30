@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+void main(){
 	int a[5]={2,4,6,8,9};
 	int x,i,flag=1;
 	printf("请输入一个整数：");
