@@ -14,5 +14,4 @@ void main(){
 	}
 	 	if(flag==1)
 	 	printf("index:-1");
-		printf("hello world");
 }
